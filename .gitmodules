@@ -1,0 +1,3 @@
+[submodule "2-bayesian-nn"]
+	path = 2-bayesian-nn
+	url = git@github.com:valsdav/Uncertainties-in-ML-school.git
